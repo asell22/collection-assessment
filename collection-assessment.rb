@@ -1,3 +1,11 @@
+# It works! 
+
+# Watch indentation and space, super important for communication
+# Everything in a hash should be indented by two spaces.
+# Curly braces for hashes should start on a new line, with their contents indented by two spaces.
+
+# Also, I know you were more comfortable with string keys that symbols. Try this with symbols when you have a chance
+
 STUDENTS = [
 {"First Name" => "John", "Last Name" => "Foley", "Email" => "john@gschool.it", "Class" => "Beginning snark"},
 {"First Name" => "Sylwester", "Last Name" => "Kelsey", "Email" => "sellie@gmail.com", "Class" => "Ruby Immersive"},
